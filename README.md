@@ -1,5 +1,5 @@
 # 💫 About Me:
-Mid-level Full Stack Developer focused on React Native.<br><br>Passionate for software development I am always striving to learn more, improve what I already know and develop more skills.
+Full Stack Developer.<br><br>Passionate for software development I am always striving to learn more, improve what I already know and develop more skills.
 
 
 ## 🌐 Socials:
