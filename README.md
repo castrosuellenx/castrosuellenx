@@ -1,6 +1,5 @@
 # 💫 About Me:
-Full Stack Developer.<br><br>Passionate for software development I am always striving to learn more, improve what I already know and develop more skills.
-
+A Full Stack Developer focused on front-end and mobile development with +3 years of professional experience working with JavaScript, TypeScript, React Native, React.js, and Node.js.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/castrosuellenx) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/castrosuellenx) 
