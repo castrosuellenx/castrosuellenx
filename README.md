@@ -1,11 +1,5 @@
 # 💫 About Me:
 Experienced Full Stack Developer with +3 years of expertise in creating innovative solutions for web and mobile applications. I specialize in enhancing user experiences and driving business growth through my proficiency in JavaScript, TypeScript, React Native, React.js, and Node.js.
- 
-🚀 Spearheaded the transformation of user interfaces by implementing responsive designs and interactive elements, resulting in a remarkable 50% reduction in style files and heightened customer satisfaction levels.
- 
-🔍 Collaborated on comprehensive user research to develop multitasking-oriented UI/UX with screen-centric design. Applied this solution to an oil drilling monitoring web application, catering to industry leaders and achieving exceptional data accessibility.
- 
-📊 Mastered Three.js to seamlessly integrate 3D NFT designs into a React Native (Expo) mobile app. Played a pivotal role in attaining 1k downloads during the early-access phase of a Canadian Decentralized Fantasy Sports (DeFS) app, fostering a thriving user community.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/castrosuellenx) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/castrosuellenx) 
