@@ -1,5 +1,5 @@
 # 💫 About Me:
-Experienced Full Stack Developer with +3 years of expertise in creating innovative solutions for web and mobile applications. I specialize in enhancing user experiences and driving business growth through my proficiency in JavaScript, TypeScript, React Native, React.js, and Node.js.
+Experienced Full Stack Developer with 4 years of expertise in creating innovative solutions for web and mobile applications. I specialize in enhancing user experiences and driving business growth through my proficiency in JavaScript, TypeScript, React Native, React.js, and Node.js.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/castrosuellenx) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/castrosuellenx) 
